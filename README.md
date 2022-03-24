@@ -30,7 +30,7 @@ My purpose here is to create a list of every single free content that I had stud
     - C++ Programming Course, Beginner to Advanced https://www.youtube.com/watch?v=8jLOx1hD3_o - freeCodeCamp.org - 31:07:29 Hours
     - C++ FULL COURSE For Beginners (Learn C++ in 10 hours) https://www.youtube.com/watch?v=GQp1zzTwrIg - CodeBeauty - 10:27:40 Hours
     - C++ POINTERS FULL COURSE Beginner to Advanced (Learn C++ Pointers in 2,5 hours) https://www.youtube.com/watch?v=kiUGf_Z08RQ - CodeBeauty - 2:23:14 Hours
-    - (In Progress) C++ - https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=1 - The Cherno - 99 videos
+    - C++ - https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=1 - The Cherno - 99 videos
 
   + SQL:
     - SQL Básico ao Avançado 2019 - https://www.youtube.com/watch?v=FNV7_9QsCok&list=PLnNURxKyyLIInBfeGiJ8L314AD015mHkv - Dev Aprender - 32 videos
