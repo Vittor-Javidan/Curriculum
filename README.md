@@ -72,7 +72,6 @@ My purpose here is to create a list of every single free content that I had stud
     - Algorithms and Data Structures Tutorial - Full Course for Beginners - https://www.youtube.com/watch?v=8hly31xKli0&t - freeCodeCamp.org - 5:22:08 Hours
     
   + Project Patterns:
-    - (In Progress) Padrões de Projeto - Design Patterns (GoF) - https://www.youtube.com/watch?v=MqddY6Ochkc&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=1 - Otávio Miranda - 45 videos
     - Singleton Pattern - Design Patterns - https://www.youtube.com/watch?v=sJ-c3BA-Ypo - Web Dev Simplified - 8:27 Minutes
     - SINGLETONS in C++ - https://www.youtube.com/watch?v=PPup1yeU45I - The Cherno - 19:15 Minutes
     - Builder Pattern - Design Patterns - https://www.youtube.com/watch?v=M7Xi1yO_s8E - Web Dev Simplified - 10:48 Minutes
