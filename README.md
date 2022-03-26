@@ -62,6 +62,7 @@ My purpose here is to create a list of every single free content that I had stud
     
   + React:
     - React Course - Beginner's Tutorial for React JavaScript Library [2022] - https://www.youtube.com/watch?v=bMknfKXIFA8 - freeCodeCamp.org - 11:55:27 Hours
+    - (In Progress) Code 15 React Projects - Complete Course - https://www.youtube.com/watch?v=a_7Z7C_JCyo - freeCodeCamp.org - 9:07:47 Hours
 
 
 
