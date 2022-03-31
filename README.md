@@ -1,10 +1,19 @@
-As a Self-Taught, I know is hard to prove to someone our own capabilities to do something. So we tend to look to the curriculum of that person, the college he or she did, the boot camps, certifies, etc. In addition, often people ask each other "How much time/effort took for you to get until at this level?"
+As a Self-Taught, I know is hard to prove to someone our own capabilities to do a job. I know that because we tend to look to the curriculum of people we are not close, as we tend to look to the college he/she did, the boot camps, certifies, etc.
 
-The hard thing is, Self-Taught persons do not necessary have those luxuries of a company holding our back, to secure to another company or a recruiter that we are capable to do something their job require. Of course we can do courses in places like Udemy, Coursera or boot camps too, because being a Self-Taught is a philosophy, not a category that you are placed just because you don't do college or pay a boot camp. 
+The hard thing is, Self-Taught persons do not necessary have those luxuries of a company backing us, to secure to another company or a recruiter that we are capable and we have the curriculum and certifies to do something their business require. 
 
-Being a Self-Taught mean stopping being worry about what a company or recruiter thinks about you, and stop with the need for a place to get the experience and expertise that you want. We do not care too much about the common sense of being a "good employer", because our energy and good comes from the love to do something, not from the need to prove something. Therefore, the curriculum I will show you bellow can be interpreted like: "Wow, that guys pass through all this?" or "Naah, anyone can put some links from Youtube and say they know something"
+But becoming Self-Taught is really worthy it, and it means breaking the chains and fears, by opening your mind to what really matters, not allowing your potential bottleneck by not taking control of what you really want to learn and why, not letting whatever system (like college, boot camps) decide what you should be focusing. Those systems are supposed to support you, not be your boss.
+
+I’m not saying college and any other teach system are bad, they are really good actually. To give you a better perspective, at the time of this text, I'm finishing my final paper in geology and planning to do a computer science degree right after. So, what I really mean is, if you don't know the real purpose of what you doing, chances are that you are doing inefficiently, and in the worst case scenario, you are spend years that can be used to evolve abilities in subjects that really matters to you. When you realize this, you become a self-though person and you will start to do things with much more pleasure, like in a video game, where you are the player and a hero of your own life. 
+
+Like good players, we tend to jump all tutorials to feel the game faster, and somehow we figure out how things works, without any straight forward path or guide, following our own instincts. So please, stop seeing things just as black and white, stop thinking that you need to know something perfectly before jump to another subject, stop memorizing things, stop, just, stop! Because in a good game, there is no right path. A learning in the future can help you understand better what you did in the past, and that is how you learn things fast.
+
+Make your life a game that you want to play!!!
+
 
 My purpose here is to create a list of every single free content that I had study. Both to guide people who feel lost about find a learning path, and for people who want to see my curriculum to check what I know.
+
+
 
 # Curriculum
 
