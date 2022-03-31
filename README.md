@@ -8,7 +8,7 @@ My purpose here is to create a list of every single free content that I had stud
 
 # Curriculum
 
-// FUNDAMENTALS =============================================================================
+// FUNDAMENTALS ===========================================================
 
   + JavaScript:
     - JavaScript tutorial for beginners (2021) - https://www.youtube.com/watch?v=eMveUVA03-E&list=PLZPZq0r_RZOPIiD5iO00XMhA3W-xFpUt4 - Bro Code - 60 videos
@@ -48,7 +48,7 @@ My purpose here is to create a list of every single free content that I had stud
 
 
 
-// FRAMEWORKS ===============================================================================
+// FRAMEWORKS =============================================================
   
   + NodeJs:
     - Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours - https://www.youtube.com/watch?v=f2EqECiTBL8&t - Dave Gray - 6:50:41 Hours
@@ -64,10 +64,11 @@ My purpose here is to create a list of every single free content that I had stud
     - React Course - Beginner's Tutorial for React JavaScript Library [2022] - https://www.youtube.com/watch?v=bMknfKXIFA8 - freeCodeCamp.org - 11:55:27 Hours
     - (In Progress) Code 15 React Projects - Complete Course - https://www.youtube.com/watch?v=a_7Z7C_JCyo - freeCodeCamp.org - 9:07:47 Hours
     - Advanced React Patterns, Performance, Environment and Testing | New Course Launch - https://www.youtube.com/watch?v=MfIoAG3e7p4 - codedamn - 58:03 Minutes
+    - Junior Vs Senior Code - How To Write Better Code As A Web Developer - React - https://www.youtube.com/watch?v=0yzoAbrjV6k - Web Dev Simplified - 21:47 Minutes
 
 
 
-// CODE CONCEPTS ============================================================================
+// CODE CONCEPTS ==========================================================
 
   + Algorithms and Data Structures:
     - Data Structures & Algorithms - https://www.youtube.com/watch?v=CBYHwZcbD-s -  Bro Code - 4:00:14 Hours
@@ -80,3 +81,17 @@ My purpose here is to create a list of every single free content that I had stud
     - Builder Design Pattern (C#) - https://www.youtube.com/watch?v=WfBsYo20D_I - Raw Coding - 12:04 Mintues
     - Builder Design Pattern Explained (with Code Examples) - https://www.youtube.com/watch?v=ALzvPK9_r0A&t=979s - dcode - 19:44 Minutes
     - Builder : Design Patterns In Python - https://www.youtube.com/watch?v=pMadA6F4zGU - seanwasere ytbe - 5:52 Minutes
+
+
+
+// WORKFLOW METHODS =======================================================
+
+  + AGILE methodology:
+    - What is Agile? - https://www.youtube.com/watch?v=NpCEjtKAa20 - Telusko - 15:21 Minutes
+    - What is Scrum? | Agile - https://www.youtube.com/watch?v=oTZd2vo3FQU - Telusko - 9:46 Minutes
+    - Scrum Methodology | Agile Scrum Framework | Scrum Master Tutorial | Edureka - https://www.youtube.com/watch?v=8dGdIcyDk1w - edureka! - 34:13 Minutes
+    - Scrum em 16 minutos - https://www.youtube.com/watch?v=vuBFzAdaHDY - freeCodeCamp.org - 16:01 Minutes
+    - Introduction to Scrum - 7 Minutes - https://www.youtube.com/watch?v=9TycLR0TqFA - Uzility - 7:51 Minutes
+    - What is Kanban? - Agile Coach (2019) -https://www.youtube.com/watch?v=iVaFVa7HYj4 - Atlassian - 5:31 Minutes
+    - Kanban Tutorial: A Fun & Effective Productivity Tool that can Change your Life - https://www.youtube.com/watch?v=ea-TH3MixM8 - 7:18 Minutes
+    - Agile Project Management with Kanban | Eric Brechner | Talks at Google - https://www.youtube.com/watch?v=CD0y-aU1sXo - Talks at Google - 1:04:30 Hours
