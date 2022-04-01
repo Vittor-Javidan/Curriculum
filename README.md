@@ -90,6 +90,8 @@ My purpose here is to create a list of every single free content that I had stud
     - Builder Design Pattern (C#) - https://www.youtube.com/watch?v=WfBsYo20D_I - Raw Coding - 12:04 Mintues
     - Builder Design Pattern Explained (with Code Examples) - https://www.youtube.com/watch?v=ALzvPK9_r0A&t=979s - dcode - 19:44 Minutes
     - Builder : Design Patterns In Python - https://www.youtube.com/watch?v=pMadA6F4zGU - seanwasere ytbe - 5:52 Minutes
+    - Observer Pattern Tutorial: I NEVER knew events were THIS powerful  - https://www.youtube.com/watch?v=oNalXg67XEE - ArjanCodes - 15:16 Minutes
+    - Observer Design Pattern (C#) - https://www.youtube.com/watch?v=8nICu7ZSPtE - Raw Coding - 8:06 Minutes
 
 
 
@@ -104,3 +106,5 @@ My purpose here is to create a list of every single free content that I had stud
     - What is Kanban? - Agile Coach (2019) -https://www.youtube.com/watch?v=iVaFVa7HYj4 - Atlassian - 5:31 Minutes
     - Kanban Tutorial: A Fun & Effective Productivity Tool that can Change your Life - https://www.youtube.com/watch?v=ea-TH3MixM8 - 7:18 Minutes
     - Agile Project Management with Kanban | Eric Brechner | Talks at Google - https://www.youtube.com/watch?v=CD0y-aU1sXo - Talks at Google - 1:04:30 Hours
+    - SCRUM VS EXTREME PROGRAMMING | WHAT ARE THE MAJOR DIFFERENCES? - https://www.youtube.com/watch?v=PRYmsmMdlko - Jelvix - 6:37 Minutes
+    - Visão Executiva das Metodologias Ágeis - Extreme Programming (XP) - https://www.youtube.com/watch?v=45sHomVMqA8 - Andy Barbosa - 26:52
