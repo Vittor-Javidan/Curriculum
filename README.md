@@ -92,6 +92,9 @@ My purpose here is to create a list of every single free content that I had stud
     - Builder : Design Patterns In Python - https://www.youtube.com/watch?v=pMadA6F4zGU - seanwasere ytbe - 5:52 Minutes
     - Observer Pattern Tutorial: I NEVER knew events were THIS powerful  - https://www.youtube.com/watch?v=oNalXg67XEE - ArjanCodes - 15:16 Minutes
     - Observer Design Pattern (C#) - https://www.youtube.com/watch?v=8nICu7ZSPtE - Raw Coding - 8:06 Minutes
+    - Facade Pattern - Design Patterns - https://www.youtube.com/watch?v=fHPa5xzbpaA - Web Dev Simplified - 8:49 Minutes
+    - Facade Design Pattern - youtube.com/watch?v=VrRDami28N0 - SBCODE - 4:25 Minutes
+    - Design Patterns in Python by Peter Ullrich - https://www.youtube.com/watch?v=bsyjSW46TDg - PyCon Sweden - 27:30 Minutes
 
 
 
