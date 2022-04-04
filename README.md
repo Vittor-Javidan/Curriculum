@@ -95,6 +95,11 @@ My purpose here is to create a list of every single free content that I had stud
     - Facade Pattern - Design Patterns - https://www.youtube.com/watch?v=fHPa5xzbpaA - Web Dev Simplified - 8:49 Minutes
     - Facade Design Pattern - youtube.com/watch?v=VrRDami28N0 - SBCODE - 4:25 Minutes
     - Design Patterns in Python by Peter Ullrich - https://www.youtube.com/watch?v=bsyjSW46TDg - PyCon Sweden - 27:30 Minutes
+    - READINGS:
+      - You Don’t Need to Use Design Patterns (Until You Do)! - https://blog.devgenius.io/you-dont-need-to-use-design-patterns-until-you-do-1f2404d38ff - devgenius - 6 Minutes reading
+      - Builder - https://refactoring.guru/design-patterns/builder - refactoring.guru
+      - Singleton - https://refactoring.guru/design-patterns/singleton - refactoring.guru
+      - Factory - https://refactoring.guru/design-patterns/factory-method - refactoring.guru
 
 
 
