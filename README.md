@@ -17,6 +17,19 @@ My purpose here is to create a list of every single free content that I had stud
 
 # Curriculum
 
+// IN PROGRESS ============================================================
+
+  + Java: 
+    - Coding a 2D Game Engine in Java - https://www.youtube.com/watch?v=VyKE7vz65rY&list=PLtrSb4XxIVbp8AKuEAlwNXDxr99e3woGE - GamesWithGabe - 59 videos
+
+  + React:
+    - Code 15 React Projects - Complete Course - https://www.youtube.com/watch?v=a_7Z7C_JCyo - freeCodeCamp.org - 9:07:47 Hours
+
+  + CSS:
+    - CSS Tutorials for Beginners - https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit - Dave Gray - 10 videos
+
+
+
 // FUNDAMENTALS ===========================================================
 
   + JavaScript:
@@ -25,7 +38,6 @@ My purpose here is to create a list of every single free content that I had stud
 
   + Java:
     - Java Full Course - https://www.youtube.com/watch?v=xk4_1vDrzzo - Bro Code - 11:59:59 Hours
-    - (In Progress) Coding a 2D Game Engine in Java - https://www.youtube.com/watch?v=VyKE7vz65rY&list=PLtrSb4XxIVbp8AKuEAlwNXDxr99e3woGE - GamesWithGabe - 59 videos
 
   + Python:
     - Python Full Course - https://www.youtube.com/watch?v=XKHEtdqhLK8&t - Bro Code - 12:00:00 Hours
@@ -71,7 +83,6 @@ My purpose here is to create a list of every single free content that I had stud
     
   + React:
     - React Course - Beginner's Tutorial for React JavaScript Library [2022] - https://www.youtube.com/watch?v=bMknfKXIFA8 - freeCodeCamp.org - 11:55:27 Hours
-    - (In Progress) Code 15 React Projects - Complete Course - https://www.youtube.com/watch?v=a_7Z7C_JCyo - freeCodeCamp.org - 9:07:47 Hours
     - Advanced React Patterns, Performance, Environment and Testing | New Course Launch - https://www.youtube.com/watch?v=MfIoAG3e7p4 - codedamn - 58:03 Minutes
     - Junior Vs Senior Code - How To Write Better Code As A Web Developer - React - https://www.youtube.com/watch?v=0yzoAbrjV6k - Web Dev Simplified - 21:47 Minutes
 
@@ -116,3 +127,18 @@ My purpose here is to create a list of every single free content that I had stud
     - Agile Project Management with Kanban | Eric Brechner | Talks at Google - https://www.youtube.com/watch?v=CD0y-aU1sXo - Talks at Google - 1:04:30 Hours
     - SCRUM VS EXTREME PROGRAMMING | WHAT ARE THE MAJOR DIFFERENCES? - https://www.youtube.com/watch?v=PRYmsmMdlko - Jelvix - 6:37 Minutes
     - Visão Executiva das Metodologias Ágeis - Extreme Programming (XP) - https://www.youtube.com/watch?v=45sHomVMqA8 - Andy Barbosa - 26:52
+
+
+
+// TO RELAX ===============================================================
+
+  + The Worst Programming Language Ever - Mark Rendle - NDC Oslo 2021 - https://www.youtube.com/watch?v=vcFBwt1nu2U - NDC Conferences - 1:00:40 Hours
+  + I Turned Fake Mobile Game Ad into a Real Game - https://www.youtube.com/watch?v=zRDhiN50Vo0 - Fat Dino - 10:25 Minutes
+  + Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks - https://www.youtube.com/watch?v=FyCYva9DhsI - NDC Conferences - 1:11:22 Hours
+
+
+
+// WITHOUT CATEGORY =======================================================
+
+  + Game Maker Studio 2:
+    - How to move diagonal correctly [Game Maker Studio 2 | Basics] - https://www.youtube.com/watch?v=y7SHWtjeqAM - 1up Indie - 5:38 Minutes
