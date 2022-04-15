@@ -150,6 +150,7 @@
   + [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U) - NDC Conferences - 1:00:48 Hours
   + [Ctrl-Alt-Del: Learning to Love Legacy Code - Dylan Beattie](https://www.youtube.com/watch?v=wPjHuvulivM) - NDC Conferences - 56:46 Minutes
   + [Keynote: Are There any Questions? - Dylan Beattie](https://www.youtube.com/watch?v=o6aLNvlQaGo) - NDC Conferences - 58:47 Minutes
+  + [Linguagem Compilada vs Interpretada | Qual é melhor?](https://www.youtube.com/watch?v=SNyh-cubxaU) ***Assista em 0.9x*** - Fabio Akita - 1:11:44 Hours
 
 
 
