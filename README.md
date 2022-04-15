@@ -28,6 +28,12 @@ My purpose here is to create a list of every single free content that I had stud
   + CSS:
     - CSS Tutorials for Beginners - https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit - Dave Gray - 10 videos
 
+  + Chrome:
+    - What's New in DevTools - https://www.youtube.com/playlist?list=PLNYkxOF6rcIBDSojZWBv4QJNoT4GNYzQD - Google Chrome Developers - 43 videos
+
+  + TDD:
+    - TDD na prática - (Live Coding) com Diego Fernandes e Rodrigo Manguinho - https://www.youtube.com/watch?v=sg1zFpNM5Jw - Rocketseat - 1:59:47 Hours
+
 
 
 // FUNDAMENTALS ===========================================================
@@ -86,6 +92,9 @@ My purpose here is to create a list of every single free content that I had stud
     - Advanced React Patterns, Performance, Environment and Testing | New Course Launch - https://www.youtube.com/watch?v=MfIoAG3e7p4 - codedamn - 58:03 Minutes
     - Junior Vs Senior Code - How To Write Better Code As A Web Developer - React - https://www.youtube.com/watch?v=0yzoAbrjV6k - Web Dev Simplified - 21:47 Minutes
 
+  + Prisma:
+    - Testes E2E no Node.js com Banco de Dados (Prisma) | Decode #24 - https://www.youtube.com/watch?v=w_el04y0cHo - Rocketseat - 1:11:32 Hours
+
 
 
 // CODE CONCEPTS ==========================================================
@@ -106,6 +115,8 @@ My purpose here is to create a list of every single free content that I had stud
     - Facade Pattern - Design Patterns - https://www.youtube.com/watch?v=fHPa5xzbpaA - Web Dev Simplified - 8:49 Minutes
     - Facade Design Pattern - youtube.com/watch?v=VrRDami28N0 - SBCODE - 4:25 Minutes
     - Design Patterns in Python by Peter Ullrich - https://www.youtube.com/watch?v=bsyjSW46TDg - PyCon Sweden - 27:30 Minutes
+    - Association, Composition, Aggregation - https://www.youtube.com/watch?v=TL0TPMTzfz8 - Gray Hoodie Software | Kevin Ewig - 3:12 Minutes
+    - Why COMPOSITION is better than INHERITANCE - detailed Python example - https://www.youtube.com/watch?v=0mcP8ZpUR38 - ArjanCodes - 23:28 Minutes
     - READINGS:
       - You Don’t Need to Use Design Patterns (Until You Do)! - https://blog.devgenius.io/you-dont-need-to-use-design-patterns-until-you-do-1f2404d38ff - devgenius - 6 Minutes reading
       - Builder - https://refactoring.guru/design-patterns/builder - refactoring.guru
@@ -135,6 +146,10 @@ My purpose here is to create a list of every single free content that I had stud
   + The Worst Programming Language Ever - Mark Rendle - NDC Oslo 2021 - https://www.youtube.com/watch?v=vcFBwt1nu2U - NDC Conferences - 1:00:40 Hours
   + I Turned Fake Mobile Game Ad into a Real Game - https://www.youtube.com/watch?v=zRDhiN50Vo0 - Fat Dino - 10:25 Minutes
   + Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks - https://www.youtube.com/watch?v=FyCYva9DhsI - NDC Conferences - 1:11:22 Hours
+  + "Game Development in Eight Bits" by Kevin Zurawel - https://www.youtube.com/watch?v=TPbroUDHG0s - Strange Loop Conference - 39:40 Minutes
+  + The Art of Code - Dylan Beattie - https://www.youtube.com/watch?v=6avJHaC3C2U - NDC Conferences - 1:00:48 Hours
+  + Ctrl-Alt-Del: Learning to Love Legacy Code - Dylan Beattie - https://www.youtube.com/watch?v=wPjHuvulivM - NDC Conferences - 56:46 Minutes
+  + Keynote: Are There any Questions? - Dylan Beattie - https://www.youtube.com/watch?v=o6aLNvlQaGo - NDC Conferences - 58:47 Minutes
 
 
 
