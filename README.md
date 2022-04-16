@@ -71,6 +71,7 @@
     - [Learn Git in 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE) - Colt Steele - 15:58 Minutes
     - [Learn Github in 20 Minutes](https://www.youtube.com/watch?v=nhNq2kIvi9s&t=1s) - Colt Steele - 19:59 Minutes
     - [13 Advanced (but useful) Git Techniques and Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o) - Fireship - 8:06 Minutes
+    - [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg) - freeCodeCamp.org - 40:41 Minutes
 
 
 
@@ -93,6 +94,13 @@
 
   + ### **Prisma:**
     - [Testes E2E no Node.js com Banco de Dados (Prisma) | Decode #24](https://www.youtube.com/watch?v=w_el04y0cHo) - Rocketseat - 1:11:32 Hours
+
+  + ### **Github Copilot**
+    - [The Truth about Github Copilot // AI Programming First Look](https://www.youtube.com/watch?v=4duqI8WyfqE) - Fireship - 8:29 Minutes
+    - [Can GitHub Copilot Build an API & React Application in Record Time?](https://www.youtube.com/watch?v=vvVw4Uw9rn4) - TomDoesTech - 11:36 Minutes
+    - [Pair Programming With GitHub Copilot and React | Practical Examples](https://www.youtube.com/watch?v=yKSoHWLmWYM) - Travis Media - 24:56 Minutes
+    - #### **READINGS:**
+      - [Technical Preview](https://copilot.github.com/) - GitHub Copilot
 
 
 
@@ -143,7 +151,7 @@
 
 
 
-## **WITHOUT CATEGORY**
+## **Game Engines**
 
   + ### **Game Maker Studio 2:**
     - [How to move diagonal correctly [Game Maker Studio 2 | Basics]](https://www.youtube.com/watch?v=y7SHWtjeqAM) - 1up Indie - 5:38 Minutes
