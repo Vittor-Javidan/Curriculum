@@ -25,9 +25,6 @@
   + ### **React:**
     - [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo) - freeCodeCamp.org - 9:07:47 Hours
 
-  + ### **CSS:**
-    - [CSS Tutorials for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit) - Dave Gray - 10 videos
-
   + ### **Chrome:**
     - [What's New in DevTools](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBDSojZWBv4QJNoT4GNYzQD) - Google Chrome Developers - 43 videos
 
@@ -53,17 +50,18 @@
     - [C# Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry - 6:20:34 Hours
 
   + ### **C++:**
+    - [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno - 100 videos
     - [C++ Crash Course](https://www.youtube.com/watch?v=uhFpPlMsLzY&t) - Bro Code - 4:34:24 Hours
     - [C++ Programming Course, Beginner to Advanced](https://www.youtube.com/watch?v=8jLOx1hD3_o) - freeCodeCamp.org - 31:07:29 Hours
     - [C++ FULL COURSE For Beginners (Learn C++ in 10 hours)](https://www.youtube.com/watch?v=GQp1zzTwrIg) - CodeBeauty - 10:27:40 Hours
     - [C++ POINTERS FULL COURSE Beginner to Advanced (Learn C++ Pointers in 2,5 hours)](https://www.youtube.com/watch?v=kiUGf_Z08RQ) - CodeBeauty - 2:23:14 Hours
-    - [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno - 100 videos
 
   + ### **SQL:**
     - [SQL Básico ao Avançado 2019](https://www.youtube.com/playlist?list=PLnNURxKyyLIInBfeGiJ8L314AD015mHkv) - Dev Aprender - 32 videos
     - [SQL Tutorial | Full Course](https://www.youtube.com/playlist?list=PL__g819szPJLTW7yWkiE1Bwfp49WSvMf9) - Data with Baraa - 28 videos
 
   + ### **HTML and CSS:**
+    - [CSS Tutorials for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit) - Dave Gray - 10 videos
     - [HTML & CSS Full Course](https://www.youtube.com/watch?v=cyuzt1Dp8X8) - Bro Code - 4:55:12 Hours
     - [Learn HTML in 1 hour](https://www.youtube.com/watch?v=HD13eq_Pmp8&t) - Bro Code - 1 Hour
     - [Learn CSS 1 hour](https://www.youtube.com/watch?v=wRNinF7YQqQ&t) - Bro Code - 1 Hour
@@ -72,16 +70,17 @@
     - [Curso de Git e Github COMPLETO 2021 [iniciantes] + Desafios + Muita Prática](https://www.youtube.com/watch?v=kB5e-gTAl_s) - Dev Aprender - 49:58 Minutes
     - [Learn Git in 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE) - Colt Steele - 15:58 Minutes
     - [Learn Github in 20 Minutes](https://www.youtube.com/watch?v=nhNq2kIvi9s&t=1s) - Colt Steele - 19:59 Minutes
+    - [13 Advanced (but useful) Git Techniques and Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o) - Fireship - 8:06 Minutes
 
 
 
 ## **FRAMEWORKS**
   
   + ### **NodeJs:**
+    - [Node JS Advanced Concepts](https://www.youtube.com/playlist?list=PLKu4a5OPnvu6-u8-w7D_QAQg2FmCCvC5-) - Ferhat Demir - 161 videos
     - [Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours](https://www.youtube.com/watch?v=f2EqECiTBL8&t) - Dave Gray - 6:50:41 Hours
     - [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&t) - freeCodeCamp.org - 8:16:47 Hours
     - [Node.js / Express Course - Build 4 Projects](https://www.youtube.com/watch?v=qwfE7fSVaZM&t) - freeCodeCamp.org - 10:00:07 Hours
-    - [Node JS Advanced Concepts](https://www.youtube.com/playlist?list=PLKu4a5OPnvu6-u8-w7D_QAQg2FmCCvC5-) - Ferhat Demir - 161 videos
 
   + ### **Bootstrap:**
     - [Curso de Bootstrap](https://www.youtube.com/playlist?list=PLx4x_zx8csUgop9qBqm6ReuNa3XraZBrc) - CFB Cursos - 46 videos
@@ -103,7 +102,7 @@
     - [Data Structures & Algorithms](https://www.youtube.com/watch?v=CBYHwZcbD-s) -  Bro Code - 4:00:14 Hours
     - [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&t) - freeCodeCamp.org - 5:22:08 Hours
     
-  + ### **Project Patterns:**
+  + ### **Oriented Object Programming:**
     - [Singleton Pattern - Design Patterns](https://www.youtube.com/watch?v=sJ-c3BA-Ypo) - Web Dev Simplified - 8:27 Minutes
     - [SINGLETONS in C++](https://www.youtube.com/watch?v=PPup1yeU45I) - The Cherno - 19:15 Minutes
     - [Builder Pattern - Design Patterns](https://www.youtube.com/watch?v=M7Xi1yO_s8E) - Web Dev Simplified - 10:48 Minutes
@@ -122,6 +121,9 @@
       - [Builder](https://refactoring.guru/design-patterns/builder) - refactoring.guru
       - [Singleton](https://refactoring.guru/design-patterns/singleton) - refactoring.guru
       - [Factory](https://refactoring.guru/design-patterns/factory-method) - refactoring.guru
+  
+  + ### **Functional Programming**
+    - [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0) - NDC Conferences - 1:05:49 Hours
 
 
 
@@ -141,6 +143,13 @@
 
 
 
+## **WITHOUT CATEGORY**
+
+  + ### **Game Maker Studio 2:**
+    - [How to move diagonal correctly [Game Maker Studio 2 | Basics]](https://www.youtube.com/watch?v=y7SHWtjeqAM) - 1up Indie - 5:38 Minutes
+    
+
+
 ## **TO RELAX**
 
   + [The Worst Programming Language Ever - Mark Rendle - NDC Oslo 2021](https://www.youtube.com/watch?v=vcFBwt1nu2U) - NDC Conferences - 1:00:40 Hours
@@ -150,12 +159,4 @@
   + [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U) - NDC Conferences - 1:00:48 Hours
   + [Ctrl-Alt-Del: Learning to Love Legacy Code - Dylan Beattie](https://www.youtube.com/watch?v=wPjHuvulivM) - NDC Conferences - 56:46 Minutes
   + [Keynote: Are There any Questions? - Dylan Beattie](https://www.youtube.com/watch?v=o6aLNvlQaGo) - NDC Conferences - 58:47 Minutes
-  + [Linguagem Compilada vs Interpretada | Qual é melhor?](https://www.youtube.com/watch?v=SNyh-cubxaU) ***Assista em 0.9x*** - Fabio Akita - 1:11:44 Hours
-
-
-
-## **WITHOUT CATEGORY**
-
-  + ### **Game Maker Studio 2:**
-    - [How to move diagonal correctly [Game Maker Studio 2 | Basics]](https://www.youtube.com/watch?v=y7SHWtjeqAM) - 1up Indie - 5:38 Minutes
-    
+  + [Linguagem Compilada vs Interpretada | Qual é melhor?](https://www.youtube.com/watch?v=SNyh-cubxaU) ***Assista em 0.9x!!!*** - Fabio Akita - 1:11:44 Hours
