@@ -38,6 +38,9 @@
   + ### **JavaScript:**
     - [JavaScript tutorial for beginners (2021)](https://www.youtube.com/playlist?list=PLZPZq0r_RZOPIiD5iO00XMhA3W-xFpUt4) - Bro Code - 60 videos
     - [Javascript Crash Course](https://www.youtube.com/watch?v=t9dEgHpCNJE&t=13425s) - Bro Code - 4:30:19 Hours
+    - [I Bet You Can’t Even Name 10](https://www.youtube.com/watch?v=UUoZ_U2_4tA) - Web Dev Simplified - 20:32 Minutes
+    - [How to use Dynamic Imports for Modules - JavaScript Tutorial](https://www.youtube.com/watch?v=5s5fVghc4S8) - dcode - 9:36 Minutes
+    - [5 MUST KNOW JavaScript Object Functions](https://www.youtube.com/watch?v=NrPwbrAnxNk) - dcode - 10:41 Minutes
 
   + ### **Java:**
     - [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo) - Bro Code - 11:59:59 Hours
@@ -99,8 +102,17 @@
     - [The Truth about Github Copilot // AI Programming First Look](https://www.youtube.com/watch?v=4duqI8WyfqE) - Fireship - 8:29 Minutes
     - [Can GitHub Copilot Build an API & React Application in Record Time?](https://www.youtube.com/watch?v=vvVw4Uw9rn4) - TomDoesTech - 11:36 Minutes
     - [Pair Programming With GitHub Copilot and React | Practical Examples](https://www.youtube.com/watch?v=yKSoHWLmWYM) - Travis Media - 24:56 Minutes
+    - [Programação Vai Mudar COMPLETAMENTE Com Isso](https://www.youtube.com/watch?v=awm2k3sEtOY) - Filipe Deschamps - 10:31 Minutes
     - #### **READINGS:**
       - [Technical Preview](https://copilot.github.com/) - GitHub Copilot
+
+  + ### **Twitch API**
+    - [How To Build a Twitch Chat Bot with Nodejs](https://www.youtube.com/watch?v=9SO3-IKQTqc) - James Q Quick - 13:44 Minutes
+    - [How to Build a Twitch Bot Using TMI.JS (a moderator bot).](https://www.youtube.com/watch?v=7uSjKbAUHXg) - Techno Tim - 23:59 Minutes
+
+  + ### **CodeMirror**
+    - [CodeMirror Tutorial for Beginners: Create A Fully Functional Text Editor](https://www.youtube.com/watch?v=o1DDWQDBT9Y) - Mansoor Ghazi - 14:20 Minutes
+    - [How To Build CodePen With React](https://www.youtube.com/watch?v=wcVxX7lu2d4) - Web Dev Simplified - 30:25 Minutes
 
 
 
