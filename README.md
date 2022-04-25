@@ -64,10 +64,11 @@
     - [SQL Tutorial | Full Course](https://www.youtube.com/playlist?list=PL__g819szPJLTW7yWkiE1Bwfp49WSvMf9) - Data with Baraa - 28 videos
 
   + ### **HTML and CSS:**
-    - [CSS Tutorials for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit) - Dave Gray - 10 videos
+    - [CSS Tutorials for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit) - Dave Gray - 13 videos
     - [HTML & CSS Full Course](https://www.youtube.com/watch?v=cyuzt1Dp8X8) - Bro Code - 4:55:12 Hours
     - [Learn HTML in 1 hour](https://www.youtube.com/watch?v=HD13eq_Pmp8&t) - Bro Code - 1 Hour
     - [Learn CSS 1 hour](https://www.youtube.com/watch?v=wRNinF7YQqQ&t) - Bro Code - 1 Hour
+    - [Learn Every CSS Selector In 20 Minutes](https://www.youtube.com/watch?v=l1mER1bV0N0) - Web Dev Simplified - 19:37 Minutes
 
   + ### **Git:**
     - [Curso de Git e Github COMPLETO 2021 [iniciantes] + Desafios + Muita Prática](https://www.youtube.com/watch?v=kB5e-gTAl_s) - Dev Aprender - 49:58 Minutes
