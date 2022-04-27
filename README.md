@@ -41,6 +41,7 @@
     - [I Bet You Can’t Even Name 10](https://www.youtube.com/watch?v=UUoZ_U2_4tA) - Web Dev Simplified - 20:32 Minutes
     - [How to use Dynamic Imports for Modules - JavaScript Tutorial](https://www.youtube.com/watch?v=5s5fVghc4S8) - dcode - 9:36 Minutes
     - [5 MUST KNOW JavaScript Object Functions](https://www.youtube.com/watch?v=NrPwbrAnxNk) - dcode - 10:41 Minutes
+    - [Why I Don't Use Semicolons In JavaScript](https://www.youtube.com/watch?v=cB0STl_A4l4) - Web Dev Simplified - 6:03 Minutes
 
   + ### **Java:**
     - [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo) - Bro Code - 11:59:59 Hours
@@ -95,6 +96,9 @@
     - [React Course - Beginner's Tutorial for React JavaScript Library [2022]](https://www.youtube.com/watch?v=bMknfKXIFA8) - freeCodeCamp.org - 11:55:27 Hours
     - [Advanced React Patterns, Performance, Environment and Testing | New Course Launch](https://www.youtube.com/watch?v=MfIoAG3e7p4) - codedamn - 58:03 Minutes
     - [Junior Vs Senior Code - How To Write Better Code As A Web Developer - React](https://www.youtube.com/watch?v=0yzoAbrjV6k) - Web Dev Simplified - 21:47 Minutes
+  
+  + ### **React Native:**
+    - [Como configurar ambiente React Native no Windows - 2022](https://www.youtube.com/watch?v=4_zDCS2fVAU) - Vinicius Guedes - 31:20
 
   + ### **Prisma:**
     - [Testes E2E no Node.js com Banco de Dados (Prisma) | Decode #24](https://www.youtube.com/watch?v=w_el04y0cHo) - Rocketseat - 1:11:32 Hours
