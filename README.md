@@ -99,6 +99,9 @@
   
   + ### **React Native:**
     - [Como configurar ambiente React Native no Windows - 2022](https://www.youtube.com/watch?v=4_zDCS2fVAU) - Vinicius Guedes - 31:20
+    - [Fix for Android Emulator Hypervisor Driver For AMD Processor - Ryzen CPU + Gigabyte Aorus X470](https://www.youtube.com/watch?v=Y1WhS2yuF8I) - Gamer Tweak - 4:13
+    - [How to install Android Studio Emulator on AMD Processor(TODAY)|| #Android Emulator|| #AMD Processor.](https://www.youtube.com/watch?v=hSFo33XktgY) - Muni raja - 10:40
+    - [Configurando ícone, splash screen e nome do app Android no React Native | Claudio Orlandi](https://www.youtube.com/watch?v=3Gf9yb53bJM) - Rocketseat = 10:41
 
   + ### **Prisma:**
     - [Testes E2E no Node.js com Banco de Dados (Prisma) | Decode #24](https://www.youtube.com/watch?v=w_el04y0cHo) - Rocketseat - 1:11:32 Hours
@@ -185,3 +188,4 @@
   + [Ctrl-Alt-Del: Learning to Love Legacy Code - Dylan Beattie](https://www.youtube.com/watch?v=wPjHuvulivM) - NDC Conferences - 56:46 Minutes
   + [Keynote: Are There any Questions? - Dylan Beattie](https://www.youtube.com/watch?v=o6aLNvlQaGo) - NDC Conferences - 58:47 Minutes
   + [Linguagem Compilada vs Interpretada | Qual é melhor?](https://www.youtube.com/watch?v=SNyh-cubxaU) ***Assista em 0.9x!!!*** - Fabio Akita - 1:11:44 Hours
+  + [How Video Game Economies are Designed](https://www.youtube.com/watch?v=Zrf1cou_yVo) - Game Maker's Toolkit - 16:12
