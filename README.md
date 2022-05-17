@@ -31,6 +31,10 @@
   + ### **TDD:**
     - [TDD na prática - (Live Coding) com Diego Fernandes e Rodrigo Manguinho](https://www.youtube.com/watch?v=sg1zFpNM5Jw) - Rocketseat - 1:59:47 Hours
 
+  + ### Git
+    - [Git e Github para Iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) - Willian Justen Cursos - 30 videos
+    - [Git e Github na Vida Real](https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg) - Willian Justen Cursos - 45 videos
+
 
 
 ## **FUNDAMENTALS**
@@ -102,6 +106,7 @@
     - [Fix for Android Emulator Hypervisor Driver For AMD Processor - Ryzen CPU + Gigabyte Aorus X470](https://www.youtube.com/watch?v=Y1WhS2yuF8I) - Gamer Tweak - 4:13
     - [How to install Android Studio Emulator on AMD Processor(TODAY)|| #Android Emulator|| #AMD Processor.](https://www.youtube.com/watch?v=hSFo33XktgY) - Muni raja - 10:40
     - [Configurando ícone, splash screen e nome do app Android no React Native | Claudio Orlandi](https://www.youtube.com/watch?v=3Gf9yb53bJM) - Rocketseat = 10:41
+    - [Gerando APK | AAB com React Native CLI 2021](https://www.youtube.com/watch?v=i28btjntmNE) - Sujeito programador - 14:49
 
   + ### **Prisma:**
     - [Testes E2E no Node.js com Banco de Dados (Prisma) | Decode #24](https://www.youtube.com/watch?v=w_el04y0cHo) - Rocketseat - 1:11:32 Hours
