@@ -32,7 +32,6 @@
     - [TDD na prática - (Live Coding) com Diego Fernandes e Rodrigo Manguinho](https://www.youtube.com/watch?v=sg1zFpNM5Jw) - Rocketseat - 1:59:47 Hours
 
   + ### Git
-    - [Git e Github para Iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) - Willian Justen Cursos - 30 videos
     - [Git e Github na Vida Real](https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg) - Willian Justen Cursos - 45 videos
 
 
@@ -81,6 +80,7 @@
     - [Learn Github in 20 Minutes](https://www.youtube.com/watch?v=nhNq2kIvi9s&t=1s) - Colt Steele - 19:59 Minutes
     - [13 Advanced (but useful) Git Techniques and Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o) - Fireship - 8:06 Minutes
     - [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg) - freeCodeCamp.org - 40:41 Minutes
+    - [Git e Github para Iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) - Willian Justen Cursos - 30 videos
 
 
 
