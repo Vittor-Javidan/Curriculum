@@ -25,6 +25,7 @@
     - [How to use Dynamic Imports for Modules - JavaScript Tutorial](https://www.youtube.com/watch?v=5s5fVghc4S8) - dcode - 9:36 Minutes
     - [5 MUST KNOW JavaScript Object Functions](https://www.youtube.com/watch?v=NrPwbrAnxNk) - dcode - 10:41 Minutes
     - [Why I Don't Use Semicolons In JavaScript](https://www.youtube.com/watch?v=cB0STl_A4l4) - Web Dev Simplified - 6:03 Minutes
+    - [You're using Javascript Promises The wrong way](https://www.youtube.com/watch?v=i1ktjumqT64) - CoderOne - 9:56 Minutes
 
   + ### **Java:**
     - [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo) - Bro Code - 11:59:59 Hours
