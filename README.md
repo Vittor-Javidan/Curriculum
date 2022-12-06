@@ -1,20 +1,3 @@
->As a Self-Taught, I know is hard to prove to someone our own capabilities to do a job. I know that because we tend to look to the curriculum of people we are not close, as we tend to look to the college he/she did, the boot camps, certifies, etc.
->
->The hard thing is, Self-Taught persons do not necessary have those luxuries of a company backing us, to secure to another company or a recruiter that we are capable and we have the curriculum and certifies to do something their business require. 
->
->But becoming Self-Taught is really worthy it, and it means breaking the chains and fears, by opening your mind to what really matters, not allowing your potential bottleneck by not taking control of what you really want to learn and why, not letting whatever system (like college, boot camps) decide what you should be focusing. Those systems are supposed to support you, not be your boss.
->
->I’m not saying college and any other teach system are bad, they are really good actually. To give you a better perspective, at the time of this text, I'm finishing my final paper in geology and planning to do a computer science degree right after. So, what I really mean is, if you don't know the real purpose of what you doing, chances are that you are doing inefficiently, and in the worst case scenario, you are spend years that can be used to evolve abilities in subjects that really matters to you. When you realize this, you become a self-though person and you will start to do things with much more pleasure, like in a video game, where you are the player and a hero of your own life. 
->
->Like good players, we tend to jump all tutorials to feel the game faster, and somehow we figure out how things works, without any straight forward path or guide, following our own instincts. So please, stop seeing things just as black and white, stop thinking that you need to know something perfectly before jump to another subject, stop memorizing things, stop, just, stop! Because in a good game, there is no right path. A learning in the future can help you understand better what you did in the past, and that is how you learn things fast.
->
->Make your life a game that you want to play!!!
->
->
->My purpose here is to create a list of every single free content that I had study. Both to guide people who feel lost about find a learning path, and for people who want to see my curriculum to check what I know.
-
-
-
 # **Curriculum**
 
 ## **IN PROGRESS**
@@ -70,6 +53,7 @@
     - [Learn HTML in 1 hour](https://www.youtube.com/watch?v=HD13eq_Pmp8&t) - Bro Code - 1 Hour
     - [Learn CSS 1 hour](https://www.youtube.com/watch?v=wRNinF7YQqQ&t) - Bro Code - 1 Hour
     - [Learn Every CSS Selector In 20 Minutes](https://www.youtube.com/watch?v=l1mER1bV0N0) - Web Dev Simplified - 19:37 Minutes
+    - [Why You Should Use REM Instead of Pixels](https://www.youtube.com/watch?v=pKX7YnkyR8g) - frontendfyi - 8:25 Minutes
 
   + ### **Git:**
     - [Curso de Git e Github COMPLETO 2021 [iniciantes] + Desafios + Muita Prática](https://www.youtube.com/watch?v=kB5e-gTAl_s) - Dev Aprender - 49:58 Minutes
