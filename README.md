@@ -1,6 +1,6 @@
-# **Curriculum**
+# **My Self-thought Curriculum**
 
-## **IN PROGRESS**
+## **IN PROGRESS (i paused this progress since may/2022 indefinetly, to focus on my college and to get freeCodeCamp certifies)**
 
   + ### **Java:** 
     - [Coding a 2D Game Engine in Java](https://www.youtube.com/playlist?list=PLtrSb4XxIVbp8AKuEAlwNXDxr99e3woGE) - GamesWithGabe - 59 videos
