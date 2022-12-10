@@ -19,7 +19,7 @@
 ## **FUNDAMENTALS**
 
   + ### **JavaScript:**
-    - [JavaScript tutorial for beginners (2021)](https://www.youtube.com/playlist?list=PLZPZq0r_RZOPIiD5iO00XMhA3W-xFpUt4) - Bro Code - 60 videos
+    - [JavaScript tutorial for complete beginners 🌐](https://www.youtube.com/watch?v=STEfmxQjO2Q&list=PLZPZq0r_RZOMRMjHB_IEBjOW_ufr00yG1) - Bro Code - 60 videos
     - [Javascript Crash Course](https://www.youtube.com/watch?v=t9dEgHpCNJE&t=13425s) - Bro Code - 4:30:19 Hours
     - [I Bet You Can’t Even Name 10](https://www.youtube.com/watch?v=UUoZ_U2_4tA) - Web Dev Simplified - 20:32 Minutes
     - [How to use Dynamic Imports for Modules - JavaScript Tutorial](https://www.youtube.com/watch?v=5s5fVghc4S8) - dcode - 9:36 Minutes
@@ -72,7 +72,6 @@
 ## **FRAMEWORKS**
   
   + ### **NodeJs:**
-    - [Node JS Advanced Concepts](https://www.youtube.com/playlist?list=PLKu4a5OPnvu6-u8-w7D_QAQg2FmCCvC5-) - Ferhat Demir - 161 videos
     - [Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours](https://www.youtube.com/watch?v=f2EqECiTBL8&t) - Dave Gray - 6:50:41 Hours
     - [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&t) - freeCodeCamp.org - 8:16:47 Hours
     - [Node.js / Express Course - Build 4 Projects](https://www.youtube.com/watch?v=qwfE7fSVaZM&t) - freeCodeCamp.org - 10:00:07 Hours
