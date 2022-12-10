@@ -1,3 +1,5 @@
+# **(DEPRECATED) New updates are now done directly on my Github.io page: https://vittor-javidan.github.io/**
+
 # **My Self-thought Curriculum**
 
 ## **IN PROGRESS (i paused this progress since may/2022 indefinetly, to focus on my college and to get freeCodeCamp certifies)**
